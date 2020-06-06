@@ -1,0 +1,15 @@
+L'extension doit contenir le composant du moteur.
+
+Le menu :
+
+New Hoist : permet de placer un nouveau moteur
+-> Popup pour les propriétés du moteur
+-> placement du hoist (prévoir un pointeru spécial)
+https://ruby.sketchup.com/UI.html
+
+High Hook
+
+Down Hook
+
+Hoist Name
+
