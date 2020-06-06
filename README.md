@@ -13,7 +13,8 @@ Je vais commenter au maximum chaque ligne même lorsque ça ne semble pas néces
 
 Comme je suis Français je commente et donne les instructions en français, et parfois en anglais.
 
-############################################################# 
+#############################################################
+
                      INSTRUCTIONS DE BASES
 
 J'utilise l'extension "Ruby Code Editor" pour tester mes scripts dans sketchup : 
