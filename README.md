@@ -20,6 +20,8 @@ Comme je suis Français je commente et donne les instructions en français, et p
 J'utilise l'extension "Ruby Code Editor" pour tester mes scripts dans sketchup : 
 https://alexschreyer.net/projects/sketchup-ruby-code-editor/
 
-Pour faire marcher mes scripts, créez un nouveau fichier sketchup, un nouveau fichier dans l'extention et collez y le script
+Pour faire marcher mes scripts, créez un nouveau fichier sketchup, un nouveau fichier dans l'extention et collez y le script.
+
+Ouvrez la console ruby : Tools, show Ruby console
 
 suivez les instructions supplémentaire du script et executez le code
