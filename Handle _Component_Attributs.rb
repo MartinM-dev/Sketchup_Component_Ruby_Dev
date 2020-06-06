@@ -12,7 +12,7 @@ require 'extensions.rb'
 
 model = Sketchup.active_model # Model en cours
 entities = model.entities # Toutes les entités du modèle, ajouter .first  pour avoir le premier
-selection = model.selection[0] # Current selection
+selection = model.selection[0] # Premiere instance de la sélection en cours
 
 if selection.is_a?( Sketchup::ComponentInstance ) # test si la sélection est une instance de composant
 puts "got it"
